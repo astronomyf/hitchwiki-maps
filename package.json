@@ -1,0 +1,16 @@
+{
+  "name": "hitchmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Violante",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
